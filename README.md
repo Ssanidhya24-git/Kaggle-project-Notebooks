@@ -11,3 +11,9 @@
 •Identified factors affecting the Survival Rate of Passengers & performed algorithms like Regression, Random Forest
 
 •Performed feature Engineering & set right parameters for hyperparameter tuning predicted the survival rate & got accuracy of 0.81%
+
+3) Credit Card Fraud Detection(Python ,Random Forest)
+
+•Detected the number of false credit card transactions on the dataset by performing Data Visualization, pattern formation & normalized data.
+
+•Build Logistic & Random Forest Classification models & optimized the model getting an accuracy of 0.99%
